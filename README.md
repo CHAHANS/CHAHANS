@@ -5,6 +5,7 @@
 
 # Skills....
 I'm still clumsy at everything
+love AI
 
 ### Language
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
