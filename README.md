@@ -1,5 +1,6 @@
 # HI.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CHAHANS)](https://hits.seeyoufarm.com) 
+[![Velog](https://img.shields.io/badge/-velog-20C997?style=for-the-badge&logo=Velog&logoColor=fff)](https://velog.io/@cha0129krl)
 
 # Skill and tools
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
